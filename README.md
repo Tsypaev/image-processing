@@ -14,3 +14,7 @@ User ID: 86775266
 [lab6-1](lab_5/6-morphology-1.ipynb) - Математическая морфология
 
 [lab6-2](lab_5/6-morphology-2.ipynb) - Задачи по морфологии + определение возраста дерева
+
+[lab7](lab_6/7-image-segmentation.ipynb) - Обзор методов сегментации
+
+[lab8](lab_7/8-Introducing-Scikit-Learn.ipynb) - Анализ изображений
